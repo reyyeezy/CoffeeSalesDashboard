@@ -15,3 +15,4 @@ We are challenged to:
 ## Conclusion
 
 ## Interactive Excel Dashboard
+![CoffeeSalesDashboardImage](https://github.com/reyyeezy/CoffeeSalesDashboard/assets/40923068/6844ecdd-08a6-4ee6-997b-95379dd73f6f)
